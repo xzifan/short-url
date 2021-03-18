@@ -1,4 +1,4 @@
 {
     "mongoURI": "mongodb+srv://fullstack:<password>@cluster0.pwurs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "baseUrl": "https://zifan.dev"
+    "baseUrl": "http://zifan.dev"
   }
